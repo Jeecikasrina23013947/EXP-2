@@ -1,4 +1,4 @@
-# EXP-2 
+
 # EXPT NO: 2 OCC AND LOAD CHARACTERISTICS OF D.C SHUNT GENERATOR
 # NAME:JEECIKASRINA M
 # REG NO:212223100015
@@ -60,8 +60,8 @@ Tabulation for Load Test:
 
 Load Characteristics:
  ![Uploading WhatsApp Image 2025-09-18 at 10.29.09 AM.jpeg…]()
-![WhatsApp Image 2025-09-18 at 10 18 32 AM (1)](https://github.com/user-attachments/assets/7957136a-2960-4864-8e59-04dcbe4391fa)
-
+<img width="958" height="861" alt="image" src="https://github.com/user-attachments/assets/8a84718c-f5b0-40b3-b1b7-04977f701436" />
+<img width="882" height="782" alt="image" src="https://github.com/user-attachments/assets/8bc97291-9398-4c52-804b-9936b9155ae9" />
 
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
